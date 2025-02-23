@@ -24,6 +24,6 @@ A quick test for the **ESP32-WROOM Dev Board** with the **ST7735S TFT Display**.
 
 ---
 ![20250223_171437 1](https://github.com/user-attachments/assets/1a83e72f-566d-4450-be96-5d81885132b1)
-![20250223_171506 1](https://github.com/user-attachments/assets/000cae1a-58ac-4b75-b51c-bfa231dfa171)
+![circuit_image](https://github.com/user-attachments/assets/10f7e36a-2bf0-4ac5-b4d6-e4094e551f3a)
 
 
