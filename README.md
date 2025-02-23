@@ -1,16 +1,16 @@
 # ESP32-ST7735S Test
-A quick test for the **ESP32-WROOM Dev Board** with the **ST7735S TFT Display**.
+Quick test for the **ESP32-WROOM Dev Board** with the **ST7735S TFT Display**.
 
-## 🛠️ Pinout Configuration
+## Pinout Configuration
 
-### 🔘 Button Connections
+### Button Connections
 | Button   | GPIO Pin |
 |----------|---------|
 | Button 1 | **22**  |
 | Button 2 | **15**  |
 | Button 3 | **21**  |
 
-### 📺 TFT Display Connections
+### TFT Display Connections
 | TFT Pin  | ESP32 Pin |
 |----------|---------|
 | **TFT_BLK**  | Floating |
